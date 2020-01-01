@@ -9,6 +9,9 @@ A common list of the software design principles for the farallons collection of 
 
 (as taught by Meyer)
 
+### interfaces
+
+(as taught by James Gosling - Java founder and lead designer)
 
 ### small interfaces 
 

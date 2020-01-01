@@ -1,2 +1,2 @@
 # guide
-A common list of the software design principles for the farallons set of libraries
+A common list of the software design principles for the farallons collection of libraries
